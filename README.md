@@ -55,12 +55,23 @@ I hope you interest and piqued with my labors of work that I've found intriguing
 
 Wasn"t this better than hearing the usually stock answers to the question, "So tell me about yourself?"
 
+If our paths cross say Hello!
+
+https://1drv.ms/i/s!AgkCtpz1riGAiLd3IGkD7aYSLfUvSw?e=yUuwmb
+
+
 Acknowledements go to:
 Amanda Paulette - assisting with student becoming familiar with necessary requirements of various pieces of code throughout
+
 Tutorialspoint.com - general information regarding HTML
+
 lipsum.com - generic text as place holders
+
 shecodes.com - reading through explanations of coding terms but no codes used
+
 IonicFrameworks - reading through explanations of coding terms but no codes were used
+
 issueantenna.com - reading through explanations of coding terms but no codes were used
+
 W3.com - reading through explanations of coding terms but no codes were used
 
