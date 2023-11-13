@@ -1,6 +1,9 @@
 # HBIL1986
 Greetings!
-I'm Yvonne Cantu from the great state of Texas.  I've lived been in other states but as they say, "You take the girl out of Texas but you can't take the Texas out of the girl."  So true. I love hearing stories about people's lives and in Texas I grew knowing it as a way to pass along history and knowledge.  You never know what's behind those eyes, in a person's soul and where the shoes they've walked in have been.  I would have loved being an anthropologist and I guess you could say learning about people and cultures is a hobby that's piques my interest for years.
+
+I'm Yvonne Cantu from the great state of Texas.  
+
+I've lived been in other states but as they say, "You take the girl out of Texas but you can't take the Texas out of the girl."  So true. I love hearing stories about people's lives and in Texas I grew knowing it as a way to pass along history and knowledge.  You never know what's behind those eyes, in a person's soul and where the shoes they've walked in have been.  I would have loved being an anthropologist and I guess you could say learning about people and cultures is a hobby that's piques my interest for years.
 
 I have a story to share with you I like to call Careers, College and Collections. I find it a good way to let people in to my world.  I like telling it so much better than answering the question at every job interview: So, tell me about yourself. I was a good, obedient child and teenager so there's nothing to tell there. But, beginning to live my adult life was and still is like a map that goes to all four directions and in between. And, it will continue to as such.  
 
@@ -180,12 +183,20 @@ Wasn"t this better than hearing the usually stock answers to the question, "So t
 
 Acknowledements go to:
 Amanda Paulette - assisting with student becoming familiar with necessary requirements of various pieces of code throughout
+
 Tutorialspoint.com - general information regarding HTML
+
 lipsum.com - generic text as place holders
+
 shecodes.com - reading through explanations of coding terms but no codes used
+
 IonicFrameworks - reading through explanations of coding terms but no codes were used
+
 issueantenna.com - reading through explanations of coding terms but no codes were used
+
 W3.com - reading through explanations of coding terms but no codes were used
 
 Who could I be? Say hello if our paths cross!
-whttps://1drv.ms/i/s!AgkCtpz1riGAiLd3IGkD7aYSLfUvSw?e=3IPQEz
+
+
+https://1drv.ms/i/s!AgkCtpz1riGAiLd3IGkD7aYSLfUvSw?e=3IPQEz
