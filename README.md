@@ -61,6 +61,7 @@ https://1drv.ms/i/s!AgkCtpz1riGAiLd3IGkD7aYSLfUvSw?e=yUuwmb
 
 
 Acknowledements go to:
+
 Amanda Paulette - assisting with student becoming familiar with necessary requirements of various pieces of code throughout
 
 Tutorialspoint.com - general information regarding HTML
