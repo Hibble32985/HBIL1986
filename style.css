@@ -98,4 +98,7 @@ p {
 	padding:0 40px 0 40px;
 }
 
-
+.bullet-before::before {
+    content: "\2022"; /* Unicode character for bullet */
+    margin-right: 5px; /* Adjust the spacing between the bullet and the text */
+  }
