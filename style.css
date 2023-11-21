@@ -102,3 +102,8 @@ p {
     content: "\2022"; /* Unicode character for bullet */
     margin-right: 5px; /* Adjust the spacing between the bullet and the text */
   }
+
+  .banner-image {
+    height: 75%
+    width 70%
+}
